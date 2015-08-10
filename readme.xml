@@ -1,0 +1,4 @@
+1、编译命令：
+	mvn comppile
+2、执行main函数所在的文件：
+	mvn exec:java -Dexec.mainClass="com.hand.App"
